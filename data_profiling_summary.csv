@@ -1,0 +1,13 @@
+Column,DataType,NonNullCount,MissingPercentage,UniqueValues,Min,Max,Mean,StdDev
+unique_id,object,18862,0.00%,18862,,,,
+indicator_id,int64,18862,0.00%,21,365,661,431.8178878167745,113.94656466238499
+name,object,18862,0.00%,18,,,,
+measure,object,18862,0.00%,8,,,,
+measure_info,object,18862,0.00%,8,,,,
+geo_type_name,object,18862,0.00%,5,,,,
+geo_join_id,object,18862,0.00%,72,,,,
+geo_place_name,object,18862,0.00%,114,,,,
+time_period,object,18862,0.00%,57,,,,
+start_date,datetime64[ns],18862,0.00%,46,,,,
+data_value,float64,18862,0.00%,7375,0.0,424.7,21.05158015629472,23.56492024529776
+message,object,0,100.00%,0,,,,
